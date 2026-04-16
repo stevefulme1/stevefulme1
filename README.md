@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Role-Sr._Product_Manager-EE0000?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Role-Principal_Product_Manager-EE0000?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Company-Red_Hat-EE0000?style=for-the-badge&labelColor=0d1117&logo=redhat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Product-Ansible_Automation_Platform-22c55e?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Focus-Ecosystem_&_Content-3b82f6?style=for-the-badge&labelColor=0d1117"/>
