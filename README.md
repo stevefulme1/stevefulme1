@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=110&lines=Stephen+Fulmer" alt="Stephen Fulmer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=EE0000&center=true&vCenter=true&random=false&width=725&lines=Principal+Product+Manager+%40+Red+Hat+%7C+Ansible+Automation+Platform;Ecosystem+%7C+Content+%7C+Partner+Integrations;Cisco+%7C+VMware+%7C+ServiceNow+%7C+Cloud+%7C+Splunk+EDA;Turning+customer+signals+into+automation+strategy;Data-driven+PM+%7C+AI-augmented+workflows" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=EE0000&center=true&vCenter=true&random=false&width=820&lines=%20Principal+Product+Manager+%40+Red+Hat+%7C+Ansible+Automation+Platform%20;%20Ecosystem+%7C+Content+%7C+Partner+Integrations%20;%20Cisco+%7C+VMware+%7C+ServiceNow+%7C+Cloud+%7C+Splunk+EDA%20;%20Turning+customer+signals+into+automation+strategy%20;%20Data-driven+PM+%7C+AI-augmented+workflows%20" alt="Subtitle" />
 
 <br/>
 
@@ -30,9 +30,9 @@
 
 ### 🧑‍💻 Who I Am
 
-I'm a **Senior Product Manager** at **Red Hat**, driving the ecosystem and content strategy for **Ansible Automation Platform** — the industry-leading automation platform used by thousands of enterprises worldwide.
+I'm a **Principal Product Manager** at **Red Hat**, driving the ecosystem and content strategy for **Ansible Automation Platform** — the industry-leading automation platform used by thousands of enterprises worldwide.
 
-- 🏢 **Sr. Product Manager** @ Red Hat — Ansible Automation Platform
+- 🏢 **Principal Product Manager** @ Red Hat — Ansible Automation Platform
 - 🔌 Owning **ecosystem partner integrations** — Cisco, VMware, ServiceNow, Cloud providers
 - 📊 Building **AI-augmented PM workflows** with Claude Code, Amplitude, and Jira
 - 🔭 Currently leading: **OpenShift Virtualization Migration**, **Splunk EDA**, **Oracle OCI Collection**
@@ -60,7 +60,7 @@ I'm a **Senior Product Manager** at **Red Hat**, driving the ecosystem and conte
 <p align="center">
 <img src="https://img.shields.io/badge/Customer_Clusters-1000%2B_Active-a855f7?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/RFE_Backlog-Data--Driven_Triage-f59e0b?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/AI_PM_Toolkit-10_Plugins_Built-ef4444?style=for-the-badge&labelColor=0d1117"/>
+<!-- PLUGIN_COUNT_BADGE --><img src="https://img.shields.io/badge/AI_PM_Toolkit-12_Plugins_Built-ef4444?style=for-the-badge&labelColor=0d1117"/><!-- /PLUGIN_COUNT_BADGE -->
 </p>
 
 <br/>
@@ -81,7 +81,7 @@ I'm a **Senior Product Manager** at **Red Hat**, driving the ecosystem and conte
 | 📦 **Content & Collections** | Driving adoption of 150+ Ansible collections across enterprise customers |
 | 🏭 **Migration Tooling** | Leading OpenShift Virtualization Migration (VMware → OCP-V) initiative |
 | 📊 **Data-Driven PM** | Built AI-powered analytics pipeline — Amplitude + Jira + Claude Code |
-| 🤖 **AI PM Toolkit** | Created 10-plugin framework for PM workflows (ansible-pm-ai) |
+<!-- PLUGIN_COUNT_TABLE -->| 🤖 **AI PM Toolkit** | Created 12-plugin framework for PM workflows (ansible-pm-ai) |<!-- /PLUGIN_COUNT_TABLE -->
 | 🔍 **RFE Analysis** | Automated triage, duplicate detection, and trend analysis for customer RFEs |
 
 </div>
@@ -143,6 +143,10 @@ I'm a **Senior Product Manager** at **Red Hat**, driving the ecosystem and conte
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=stevefulme1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=stevefulme1&theme=tokyonight&hide_border=true&border_radius=8" />
 
