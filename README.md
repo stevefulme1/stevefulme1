@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=110&lines=Stephen+Fulmer" alt="Stephen Fulmer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=EE0000&center=true&vCenter=true&random=false&width=720&lines= Principal+Product+Manager+%40+Red+Hat+%7C+Ansible+Automation+Platform;Ecosystem+%7C+Content+%7C+Partner+Integrations;Cisco+%7C+VMware+%7C+ServiceNow+%7C+Cloud+%7C+Splunk+EDA;Turning+customer+signals+into+automation+strategy;Data-driven+PM+%7C+AI-augmented+workflows" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=EE0000&center=true&vCenter=true&random=false&width=725&lines=Principal+Product+Manager+%40+Red+Hat+%7C+Ansible+Automation+Platform;Ecosystem+%7C+Content+%7C+Partner+Integrations;Cisco+%7C+VMware+%7C+ServiceNow+%7C+Cloud+%7C+Splunk+EDA;Turning+customer+signals+into+automation+strategy;Data-driven+PM+%7C+AI-augmented+workflows" alt="Subtitle" />
 
 <br/>
 
