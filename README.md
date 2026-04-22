@@ -144,7 +144,7 @@ I'm a **Principal Product Manager** at **Red Hat**, driving the ecosystem and co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stevefulme1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=stevefulme1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&rank_icon=github" />
 
 <br/><br/>
 
