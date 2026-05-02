@@ -30,7 +30,7 @@ jobs:
 
           sed -i "s|<!-- PLUGIN_COUNT_BADGE -->.*<!-- /PLUGIN_COUNT_BADGE -->|<!-- PLUGIN_COUNT_BADGE --><img src=\"https://img.shields.io/badge/AI_PM_Toolkit-${COUNT}_Plugins_Built-ef4444?style=for-the-badge\&labelColor=0d1117\"/><!-- /PLUGIN_COUNT_BADGE -->|" README.md
 
-          sed -i "s|<!-- PLUGIN_COUNT_TABLE -->.*<!-- /PLUGIN_COUNT_TABLE -->|<!-- PLUGIN_COUNT_TABLE -->| 🤖 **AI PM Toolkit** | Created ${COUNT}-plugin framework for PM workflows (ansible-pm-ai) |<!-- /PLUGIN_COUNT_TABLE -->|" README.md
+          sed -i "s#<!-- PLUGIN_COUNT_TABLE -->.*<!-- /PLUGIN_COUNT_TABLE -->#<!-- PLUGIN_COUNT_TABLE -->| 🤖 **AI PM Toolkit** | Created ${COUNT}-plugin framework for PM workflows (ansible-pm-ai) |<!-- /PLUGIN_COUNT_TABLE -->#" README.md
 
       - name: Check for changes
         id: diff
