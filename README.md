@@ -60,7 +60,7 @@ I'm a **Principal Product Manager** at **Red Hat**, driving the ecosystem and co
 <p align="center">
 <img src="https://img.shields.io/badge/Customer_Clusters-1000%2B_Active-a855f7?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/RFE_Backlog-Data--Driven_Triage-f59e0b?style=for-the-badge&labelColor=0d1117"/>
-<!-- PLUGIN_COUNT_BADGE --><img src="https://img.shields.io/badge/AI_PM_Toolkit-12_Plugins_Built-ef4444?style=for-the-badge&labelColor=0d1117"/><!-- /PLUGIN_COUNT_BADGE -->
+<!-- PLUGIN_COUNT_BADGE --><img src="https://img.shields.io/badge/AI_PM_Toolkit-3_Plugins_Built-ef4444?style=for-the-badge&labelColor=0d1117"/><!-- /PLUGIN_COUNT_BADGE -->
 </p>
 
 <br/>
@@ -81,7 +81,7 @@ I'm a **Principal Product Manager** at **Red Hat**, driving the ecosystem and co
 | 📦 **Content & Collections** | Driving adoption of 150+ Ansible collections across enterprise customers |
 | 🏭 **Migration Tooling** | Leading OpenShift Virtualization Migration (VMware → OCP-V) initiative |
 | 📊 **Data-Driven PM** | Built AI-powered analytics pipeline — Amplitude + Jira + Claude Code |
-<!-- PLUGIN_COUNT_TABLE -->| 🤖 **AI PM Toolkit** | Created 12-plugin framework for PM workflows (ansible-pm-ai) |<!-- /PLUGIN_COUNT_TABLE -->
+<!-- PLUGIN_COUNT_TABLE -->| 🤖 **AI PM Toolkit** | Created 3-plugin framework for PM workflows (ansible-pm-ai) |<!-- /PLUGIN_COUNT_TABLE -->
 | 🔍 **RFE Analysis** | Automated triage, duplicate detection, and trend analysis for customer RFEs |
 
 </div>
