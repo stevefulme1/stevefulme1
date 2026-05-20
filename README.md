@@ -171,3 +171,11 @@ I'm a **Principal Product Manager** at **Red Hat**, driving the ecosystem and co
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/stevefulme1)
 
 </div>
+
+## Community
+
+- [Contributing](CONTRIBUTING.md) - How to contribute to this project
+- [Code of Conduct](CODE_OF_CONDUCT.md) - Ansible Community Code of Conduct
+- [Security Policy](SECURITY.md) - How to report security vulnerabilities
+- [License](COPYING) - GPL-3.0
+
